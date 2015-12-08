@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "crypto-js": "^3.1.5",
+    "hapi": "9.*",
+    "hapi-auth-basic": "3.*",
+    "mysql": "*",
+    "promise": "^7.0.4",
+    "yamljs": "^0.2.4"
+  }
+}
